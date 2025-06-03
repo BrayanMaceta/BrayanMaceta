@@ -31,21 +31,3 @@
 
 
 
-<a href="https://github.com/PrudhviGNV/FacialEmotionRecognition-usingCNN">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=FacialEmotionRecognition-usingCNN" />
-</a>
-
-<a href="https://github.com/PrudhviGNV/FaceRecognisationBasedAttendence">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=FaceRecognisationBasedAttendence" />
-</a>
-
-<a href="https://github.com/PrudhviGNV/pathFinderVisualizer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=pathFinderVisualizer" />
-</a>
-
-<a href="https://github.com/PrudhviGNV/SpeechEmotionRecognization">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=SpeechEmotionRecognization" />
-</a>
-
------
-Cred
