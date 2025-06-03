@@ -5,15 +5,19 @@
 **Un Poco Sobre Mi**
 
 🎓 Educación y habilidades:
+
 Tecnologia En Desarrrolo De Software, Diplomado En Ciber Seguridad
 
 🧠 Lenguajes de programación:
+
 Python, C, Java
 
 🔧 Áreas de interés:
+
 Seguridad Informatica, Desarrolo De Nuevas Tecnologias
 
 🌐 Tecnologías web:
+
 HTML, CSS, JavaScript
 
 
