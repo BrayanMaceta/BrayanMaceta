@@ -15,7 +15,7 @@ Python, C, Java
 🔧 Áreas de interés:
 
 Seguridad Informatica, Desarrolo De Nuevas Tecnologias
-** **
+**, **
 🌐 Tecnologías web:
 
 HTML, CSS, JavaScript
