@@ -30,12 +30,6 @@
 &nbsp;
 
 
-![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=PrudhviGNV&show_icons=true&hide_border=true)
-
-:pushpin: Star and Fork this [README](https://github.com/PrudhviGNV/PrudhviGNV) :pencil:
-
-💻 Recent projects in which I have contributed in my [github](https://github.com/PrudhviGNV/)
-
 
 <a href="https://github.com/PrudhviGNV/FacialEmotionRecognition-usingCNN">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=FacialEmotionRecognition-usingCNN" />
