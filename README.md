@@ -4,8 +4,14 @@
 
 **Talking about Education/Skills:**
 
-- 🎓 Graduating in 2021 from Gudlavalleru Enginering College
--  python 
--  Data Science , Machine Learning, Deep Learning and Web development
-- Python , Java, JavaScript, C, C#
--  Html, CSS, Java Script, JQuery, BootStrap, React
+🎓 Educación y habilidades:
+Tecnologia En Desarrrolo De Software, Diplomado En Ciber Seguridad
+🧠 Lenguajes de programación:
+Python, C, Java
+🔧 Áreas de interés:
+Seguridad Informatica, Desarrolo De Nuevas Tecnologias
+🌐 Tecnologías web:
+HTML, CSS, JavaScript
+
+
+
