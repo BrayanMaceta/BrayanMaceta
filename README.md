@@ -7,8 +7,6 @@
   <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-
 **Talking about Education/Skills:**
 
 - 🎓 Graduating in 2021 from Gudlavalleru Enginering College
@@ -16,13 +14,3 @@
 -  Data Science , Machine Learning, Deep Learning and Web development
 - Python , Java, JavaScript, C, C#
 -  Html, CSS, Java Script, JQuery, BootStrap, React
--  DBMS, MySQL, MongoDB
--  libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib
-
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prudhvi.gnv@gmail.com
-
-&nbsp;
-
-
-
